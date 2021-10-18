@@ -1,22 +1,23 @@
 {
-  "name": "blockchain",
+  "name": "st2_02_blockchain",
   "version": "1.0.0",
   "description": "Block / Blockchain",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test": "nodemon dev-test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/04-projekt-chain/blockchain.git"
+    "url": "git+https://github.com/HolgerSinComcaveTraining/ST2_02_blockchain.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/04-projekt-chain/blockchain/issues"
+    "url": "https://github.com/HolgerSinComcaveTraining/ST2_02_blockchain/issues"
   },
-  "homepage": "https://github.com/04-projekt-chain/blockchain#readme",
+  "homepage": "https://github.com/HolgerSinComcaveTraining/ST2_02_blockchain#readme",
   "devDependencies": {
     "nodemon": "^2.0.13"
   }
