@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/04-projekt-chain/blockchain#readme",
   "devDependencies": {
+    "jest": "^27.3.1",
     "nodemon": "^2.0.13"
   },
   "dependencies": {
