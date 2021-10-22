@@ -1,3 +1,3 @@
 # blockchain
 
-Block / Blockchain
+Block / Blockchain mittels Javascript und Node.js
