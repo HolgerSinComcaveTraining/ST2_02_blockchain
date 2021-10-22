@@ -28,7 +28,7 @@ let myBlockchain = new Blockchain;
 
 // console.log(myBlockchain);
 
-for (let index = 1; index < 5; index++) {
+for (let index = 1; index <= 5; index++) {
     myBlockchain.addBlock(`Data Set Nr ${index}`);
     
 }
